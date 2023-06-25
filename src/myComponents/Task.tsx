@@ -1,5 +1,4 @@
 import { Checkbox } from "@/components/ui/checkbox";
-import { CheckedState } from "@radix-ui/react-checkbox";
 import { Trash2 } from "lucide-react";
 
 interface TaskProps{
@@ -11,7 +10,7 @@ interface TaskProps{
     handleRemoveTodos?:(id:string)=>void
 }
 const Task:React.FC<TaskProps> = ({text,id,handleChecks,completed,active,handleRemoveTodos})=>{
-  const handleCheckedChange = (e:CheckedState)=> {
+  const handleCheckedChange = ()=> {
     handleChecks(id);
   }
     return(
