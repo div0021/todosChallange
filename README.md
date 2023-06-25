@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">👋👋🚀🚀😎😎 Todo App 👨🏽‍💻👨🏽‍💻😀😀🔥🔥</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://euphonious-pony-6836ab.netlify.app/">
       Demo
     </a>
     <span> | </span>
